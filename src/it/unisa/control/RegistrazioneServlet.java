@@ -13,7 +13,7 @@ import javax.servlet.http.HttpServletResponse;
 
 import it.unisa.model.*;
 
-/**bho
+/**
  * Servlet implementation class RegistraziomeServlet
  */
 @WebServlet("/Registrazione")
